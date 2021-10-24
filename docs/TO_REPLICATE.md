@@ -1,8 +1,18 @@
 # How to replicate the structure of this project?
 
-This template was initially created using a standard maven archetype
+## Git
+
+This project was set up in github first, then cloned to local - not the other way around.
+ This strategy seems to be the friendliest setup for a github project
+ 
+It was then changed to a github template after creating and testing.
+
+## Java Maven
+
+This java maven structure was initially created using a standard maven archetype
 
 See https://maven.apache.org/guides/introduction/introduction-to-archetypes.html
+
 
 ## Why this structure instead of another?
 
