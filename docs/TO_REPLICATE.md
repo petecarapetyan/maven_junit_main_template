@@ -1,27 +1,25 @@
-# cc_assignment3_starter
+# How to replicate the structure of this project?
 
-__Everything in this project and derivative projects is experimental, tentative, unapproved__
+This template was initially created using a standard maven archetype
 
-## Hey! How to replicate the structure of this project?
-
-yada
+See https://maven.apache.org/guides/introduction/introduction-to-archetypes.html
 
 ## Why this structure instead of another?
 
-yada
+The structure created by the maven archetype is thought to be the likeliest corporate standard/
 
 ## What about these other approaches?
 
-- manual
+- manual such as bash shell or windows explorer
 - Spring Boot
-- Gradle
+- Gradle tooling
 - Eclipse IDE
 - IntelliJ IDE
 - VSCode IDE
 - shell scripts
 - Chef or other similar
+- custom maven archetypes
 
-yada
-
+These are all valid approaches. 
 
 

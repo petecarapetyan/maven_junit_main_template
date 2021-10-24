@@ -1,5 +1,7 @@
 # PERFORMANCE TESTS
 
+The following objectives or tests were established - for the creation of this template
+
 - create a clone from a template
 - create a similar structured from scratch
 - never get confused with static methods not being able to call instance methods directly
