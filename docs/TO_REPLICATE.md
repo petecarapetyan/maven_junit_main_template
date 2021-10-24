@@ -6,7 +6,7 @@ See https://maven.apache.org/guides/introduction/introduction-to-archetypes.html
 
 ## Why this structure instead of another?
 
-The structure created by the maven archetype is thought to be the likeliest corporate standard/
+The structure created by the maven archetype is thought to be the likeliest corporate standard
 
 ## What about these other approaches?
 
