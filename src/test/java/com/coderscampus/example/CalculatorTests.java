@@ -8,7 +8,7 @@
  * http://www.eclipse.org/legal/epl-v20.html
  */
 
-package com.example.project;
+package com.coderscampus.example;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -16,6 +16,8 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
+
+import com.coderscampus.example.Calculator;
 
 class CalculatorTests {
 
